@@ -1,14 +1,14 @@
 {
-  "Version": "12.2.0.0",
+  "Version": "3.2",
   "Title": "V2rayVPN",
   "Subtitle": "",
-  "Features": "🇩🇪🚫❌",
-  "Description": "",
+  "Features": "🇩🇪⚡🏴‍☠️ من دیگه فیلتر شکن درست نمکنم",
+  "Description": "لطفاً کم مصرف کنید از فیلترشکن استفاده زیادی به امکان زیاد قطع شود 🚫 🚫",
   "BtnLater": "باز شود",
-  "BtnUpdate": "آآنلاین",
+  "BtnUpdate": "🔒🔒",
   "Url": "",
   "ForceUpdate": false,
-  "Reminder": "0m",      
+  "Reminder": "",      
   "BtnTimer": 0         
 }
 
