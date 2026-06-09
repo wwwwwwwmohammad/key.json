@@ -1,13 +1,13 @@
 {
-  "Version": "3.2.3",
+  "Version": "7.2.",
   "Title": "V2rayVPN",
   "Subtitle": "",
   "Features": "🇨🇵🇩🇪⚡🏴‍☠️",
-  "Description": "لطفاً کم مصرف کنید از فیلترشکن استفاده زیادی به امکان زیاد قطع شود 🚫 🚫",
+  "Description": " 👇دانلود مستقیم👇فیلتر خراب جدید اومده",
   "BtnLater": "باز شود",
-  "BtnUpdate": "🔒🔒",
-  "Url": "",
-  "ForceUpdate": false,
+  "BtnUpdate": "دانلود",
+  "Url": "https://e.pcloud.link/publink/show?code=XZFKcrZgPBSEHIxn6zp5Oirdgk2xRTp5nn7",
+  "ForceUpdate": true,
   "Reminder": "",      
   "BtnTimer": 0         
 }
