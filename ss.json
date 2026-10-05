@@ -1,6 +1,6 @@
 {
-  "Maintenance": false,
-  "ForceUpdate": false,
+  "Maintenance": true,
+  "ForceUpdate": true,
   "LatestVersion": "3.0",
   "UpdateUrl": "https://t.me/black_fox_dev/update.apk",
   "TrialMode": false,
